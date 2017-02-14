@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  DigitalClock
-//
-//  Created by iOS Student on 2/13/17.
-//  Copyright © 2017 NKT. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -14,12 +6,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
